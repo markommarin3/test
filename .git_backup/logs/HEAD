@@ -1,0 +1,25 @@
+0000000000000000000000000000000000000000 8fe4fc4434ce2d5e757abd107c51f3b9b065a8b3 Marko ITEH <marko@iteh.rs> 1770156828 +0100	commit (initial): Initial commit: Skeleton of Vehicle Rental System
+8fe4fc4434ce2d5e757abd107c51f3b9b065a8b3 4a332112040694abe7389fa85c9b39e65cc4d9b1 Marko ITEH <marko@iteh.rs> 1770156858 +0100	commit: Backend: Added roles seeder and modified vehicles table
+4a332112040694abe7389fa85c9b39e65cc4d9b1 a60088333e9cc88d2e40b4d03d0b709fca66bf5c Marko ITEH <marko@iteh.rs> 1770156880 +0100	commit: Frontend: Added RegisterPage component using reusable Input and Button
+a60088333e9cc88d2e40b4d03d0b709fca66bf5c 63f29b677a5cbdecb9c127c99e99cbad0c28246c Marko ITEH <marko@iteh.rs> 1770156880 +0100	commit: Backend: Fixed model relationships for Reservations and Reviews
+63f29b677a5cbdecb9c127c99e99cbad0c28246c 62d348059420d994835912cc75111b41cfeed3be Marko ITEH <marko@iteh.rs> 1770156880 +0100	commit: Frontend: Implemented form validation for Register and Login pages
+62d348059420d994835912cc75111b41cfeed3be 8f03c2581f78785b8886d657b7e306f6be084296 Marko ITEH <marko@iteh.rs> 1770156880 +0100	commit: Backend: Added role-based middleware for vehicle management
+8f03c2581f78785b8886d657b7e306f6be084296 82bb425cad3f450ba77b6a587d44bdaf09bf45ce Marko ITEH <marko@iteh.rs> 1770156880 +0100	commit: Frontend: Added basic responsive styling for mobile devices
+82bb425cad3f450ba77b6a587d44bdaf09bf45ce f423877d540d86a37fa860422f650ead7177cc53 Marko ITEH <marko@iteh.rs> 1770156881 +0100	commit: Backend: Implemented API controllers for payment processing
+f423877d540d86a37fa860422f650ead7177cc53 5d7c6dbb2b4a804a0bd2dedbae9a00e4f670ef23 Marko ITEH <marko@iteh.rs> 1770156881 +0100	commit: Frontend: Connected UI with Laravel API using Axios
+5d7c6dbb2b4a804a0bd2dedbae9a00e4f670ef23 e6695e33c5aad38c7418f0bb76256338171a6ac6 Marko ITEH <marko@iteh.rs> 1770156881 +0100	commit: Documentation: Updated technical documentation with new screenshots
+e6695e33c5aad38c7418f0bb76256338171a6ac6 3c72d621edb6afe6f5d683ed6035c26bb381b0f5 Marko ITEH <marko@iteh.rs> 1770156881 +0100	commit: Final: Polishing UI and fixing minor bugs
+3c72d621edb6afe6f5d683ed6035c26bb381b0f5 db0db0e6aff204a6739a2041d0b2ae8949ca4c87 Marko ITEH <marko@iteh.rs> 1770160259 +0100	commit: Seeding: Added comprehensive set of vehicles, categories and branches
+db0db0e6aff204a6739a2041d0b2ae8949ca4c87 d33b0ded4c3c138f542bbfb6c797de82bdffec18 Marko ITEH <marko@iteh.rs> 1770160303 +0100	commit: Seeding: Fixed migration and added real vehicle data
+d33b0ded4c3c138f542bbfb6c797de82bdffec18 256eeb6be12ef41ccfcddeec4423080b7b1a7b80 Marko ITEH <marko@iteh.rs> 1770160336 +0100	commit: Seeding: Final database population with correct data formats
+256eeb6be12ef41ccfcddeec4423080b7b1a7b80 c19d55c73bcc5eed5002568c2ef8ab165602908c Marko ITEH <marko@iteh.rs> 1770160713 +0100	commit: Frontend: Implemented Vehicle Details, My Reservations, and Profile pages; Updated navigation
+c19d55c73bcc5eed5002568c2ef8ab165602908c c4139dc0b06855dd5986bc080ffce5985299e3c8 Marko ITEH <marko@iteh.rs> 1770161315 +0100	commit: FON: Full implementation according to specification (Complaints, Reviews, Admin Stats, Doc Upload, Academic metadata)
+c4139dc0b06855dd5986bc080ffce5985299e3c8 653c3e12bf2340cf7f8d1bce1cb3748130ecdabe Marko ITEH <marko@iteh.rs> 1770161734 +0100	commit: Final UI/UX update for ITEH project
+653c3e12bf2340cf7f8d1bce1cb3748130ecdabe 74067c55b40aea0c2b4394259cb7eb05938267cd Marko ITEH <marko@iteh.rs> 1770234738 +0100	commit: Complete system push - Backend & Frontend with RBAC
+74067c55b40aea0c2b4394259cb7eb05938267cd 0000000000000000000000000000000000000000 Marko ITEH <marko@iteh.rs> 1770234913 +0100	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 74067c55b40aea0c2b4394259cb7eb05938267cd Marko ITEH <marko@iteh.rs> 1770234913 +0100	Branch: renamed refs/heads/master to refs/heads/main
+74067c55b40aea0c2b4394259cb7eb05938267cd 24f4ea32ceb4815212d2c302b94c44dea4ba8ba6 Marko ITEH <marko@iteh.rs> 1770238678 +0100	commit: Implement Admin features: User Management, Support System, Logs, and Dashboard improvements
+24f4ea32ceb4815212d2c302b94c44dea4ba8ba6 18161514f63bc2033218c85e057dd7e5652b41cd Marko ITEH <marko@iteh.rs> 1770238771 +0100	commit: Fix App.jsx import error causing white screen
+18161514f63bc2033218c85e057dd7e5652b41cd 62c816e4ea91da51e8c8142a1c855fbcdb6637b5 Marko ITEH <marko@iteh.rs> 1770243531 +0100	commit: feat: Reservation Management & Document Verification
+62c816e4ea91da51e8c8142a1c855fbcdb6637b5 35b5b584e769cb83df5b89a3d90b32493f3756ed Marko ITEH <marko@iteh.rs> 1770326298 +0100	commit: Clean code - removed humanization comments, ready for production
+35b5b584e769cb83df5b89a3d90b32493f3756ed 4d09202d21da4d4c679ae6ec1abbcd5ae698ff81 Marko ITEH <marko@iteh.rs> 1770326950 +0100	commit: Preimenovani svi modeli na srpski jezik - korak ka lokalnom standardu
